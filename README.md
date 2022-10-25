@@ -1,11 +1,11 @@
-<h1> Welcome to Lessons Learned </h1>
+<h1> Welcome to Pixel Art </h1>
 
 <h2> About my project </h2>
 
-<p> This is a project based on Lessons Learned. This was my first contact with HTML and CSS, there you can see about me, lessons i learned, lessons i will learn, my soft and hard skills.
+<p> This is a project based on Pixel art. You will be able to draw whatever you want in pixel art, there you can change the number of pixels and colors appear randomly.
 
 
-This was the first project at Trybe the main focus was in HTML and a little in CSS.</p>
+The main focus of this project was in DOM, Events, Web Storage and Elements in JavaScript based on Trybe's module about Fundamentals.</p>
 
 
 <details>
@@ -23,11 +23,7 @@ This was the first project at Trybe the main focus was in HTML and a little in C
 
 <h2> Project Preview </h2> 
 
-![Lessons Learned part 1](./images/preview1.png)
-![Lessons Learned part 2](./images/preview2.png)
-![Lessons Learned part 3](./images/preview3.png)
-![Lessons Learned part 4](./images/preview4.png)
-![Lessons Learned part 5](./images/preview5.png)
+![Pixel Art Project](./images/preview.png)
 
 <h2>Connect with me </h2>
 
